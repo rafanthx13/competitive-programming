@@ -1,0 +1,3 @@
+/home/rhavel/Documentos/UFU/ResoluçãoDeProblemas/Maratona1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rhavel/Documentos/UFU/ResoluçãoDeProblemas/Maratona1/cmake-build-debug/CMakeFiles/Maratona1.dir
+/home/rhavel/Documentos/UFU/ResoluçãoDeProblemas/Maratona1/cmake-build-debug/CMakeFiles/edit_cache.dir
